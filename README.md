@@ -1,4 +1,4 @@
-![springsecurity](https://github.com/ijaysavani/ijaysavani/assets/126030289/b7e745a4-6b12-4653-88ba-b751e208ce8a)**I aspire to be a proficient backend developer, shaping digital landscapes with robust and scalable solutions.**
+**I aspire to be a proficient backend developer, shaping digital landscapes with robust and scalable solutions.**
 
 **Learning** --SYSTEM DESIGN--
 
