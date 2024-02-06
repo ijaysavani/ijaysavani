@@ -21,6 +21,7 @@ Amazon Web Services (EC2, RDS, S3, Lambda, KMS, VPC), Docker, Kubernetes
 Maven, JUnit, Mockito, Git, Tomcat, Kafka, Eclipse, VS Code
 
 
+![GitHub visitors](https://komarev.com/ghpvc/?username=ijaysavani&repo=ijaysavani&color=brightgreen)
 
 
 
