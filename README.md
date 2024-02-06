@@ -21,6 +21,6 @@ Amazon Web Services (EC2, RDS, S3, Lambda, KMS, VPC), Docker, Kubernetes
 Maven, JUnit, Mockito, Git, Tomcat, Kafka, Eclipse, VS Code
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ijaysavani.ijaysavani)
+
 
 
