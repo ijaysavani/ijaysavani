@@ -28,14 +28,14 @@ Maven, JUnit, Mockito, Git, Tomcat, Kafka, Eclipse, VS Code
 ![LeetCode](images/leetcode.svg)
 ![PostgreSQL](images/postgresql.svg)
 ![C#](images/csharp.svg)
-![Docker](images/docker.svg)
+![Docker](images/docker.png)
 ![Kubernetes](images/kubernetes.svg)
 ![Amazon Web Services](images/aws.svg)
 ![Tomcat](images/tomcat.svg)
 ![Bootstrap](images/bootstrap.svg)
 ![JavaScript](images/javascript.svg)
 ![Angular](images/angular.svg)
-![React](images/react.svg)
+![React](images/react.png)
 
 
 
