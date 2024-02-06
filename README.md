@@ -20,7 +20,23 @@ Amazon Web Services (EC2, RDS, S3, Lambda, KMS, VPC), Docker, Kubernetes
 🥶**Developer Tools:**
 Maven, JUnit, Mockito, Git, Tomcat, Kafka, Eclipse, VS Code
 
-<img src="images/springboot.svg" alt="Spring Boot" width="30"/>
+
+![Spring Boot](images/springboot.svg)
+![Spring Boot 1](images/springboot1.svg)
+![Java](images/java.svg)
+![C++](images/cplusplus.svg)
+![LeetCode](images/leetcode.svg)
+![PostgreSQL](images/postgresql.svg)
+![C#](images/csharp.svg)
+![Docker](images/docker.svg)
+![Kubernetes](images/kubernetes.svg)
+![Amazon Web Services](images/aws.svg)
+![Tomcat](images/tomcat.svg)
+![Bootstrap](images/bootstrap.svg)
+![JavaScript](images/javascript.svg)
+![Angular](images/angular.svg)
+![React](images/react.svg)
+
 
 
 
