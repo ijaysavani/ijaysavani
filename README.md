@@ -3,13 +3,13 @@
 **Learning** --SYSTEM DESIGN--
 
 😱**Programming Skills:** 
-Java, Python, C#, C++, JavaScript, R
+Java, Python, C#, C++, JavaScript, R, Go
 
 🫡 **Database Skills:** 
 MySQL, PostGreSql, Oracle
 
 🤯**Web and Framework Technologies:**
-React, Angular, Spring Boot, Spring, Spring Security, Spring MVC, Spring Data JPA, REST API, Hibernate
+React, Angular, Spring Boot, Spring, REST API, Hibernate
 
 🤩**Software Development Methodologies:**
 Agile, Waterfall, SCRUM, Microservices Architecture, CI/CD, JWT
